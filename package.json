@@ -1,0 +1,14 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "DSA Interview Questions",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zee-w",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.15.0"
+  }
+}
