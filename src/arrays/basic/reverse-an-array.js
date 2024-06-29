@@ -1,3 +1,5 @@
+// Reverse the elements in an array.
+ 
 function solution(A) {
     let B=[];
     let ALength=A.length
